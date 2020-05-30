@@ -1,6 +1,1 @@
 node_modules
-gulpfile.js
-package.json
-package-lock.json
-.travis.yml
-scss
