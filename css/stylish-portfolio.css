@@ -353,7 +353,12 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #f7f8fa !important;
+  /* background-color: #f7f8fa !important; */
+  background-color: #ffbdf1 !important;
+}
+
+.bg-secondary {
+  background-color: #fb62cc !important;
 }
 
 .text-primary {
