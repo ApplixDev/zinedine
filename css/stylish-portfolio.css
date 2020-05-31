@@ -361,6 +361,16 @@ a:hover, a:focus, a:active {
   background-color: #fb62cc !important;
 }
 
+.bg-stripe {
+  background: repeating-linear-gradient(
+    to right,
+    #ff648b,
+    #ff648b 150px,
+    #ffaac0 150px,
+    #ffaac0 300px
+  );
+}
+
 .text-primary {
   color: #1D809F !important;
 }
